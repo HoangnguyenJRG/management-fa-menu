@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\01.Publish\PHVManagementAgg</_PublishTargetUrl>
+    <History>True|2024-02-06T07:20:59.4508091Z;True|2024-02-06T14:16:59.1080100+07:00;True|2024-02-06T14:09:18.6283170+07:00;True|2024-02-02T17:41:04.5682558+07:00;True|2024-01-04T17:14:38.9274607+07:00;True|2023-12-20T17:46:46.8158510+07:00;True|2023-12-18T17:14:59.5519696+07:00;True|2023-11-23T16:49:26.7776101+07:00;True|2023-11-23T16:37:24.7928124+07:00;True|2023-11-10T14:56:39.7875829+07:00;True|2023-11-07T13:58:46.3133370+07:00;True|2023-11-07T13:55:44.0911444+07:00;</History>
+  </PropertyGroup>
+</Project>

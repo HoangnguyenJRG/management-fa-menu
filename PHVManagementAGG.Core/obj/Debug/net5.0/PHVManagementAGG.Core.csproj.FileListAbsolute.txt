@@ -1,0 +1,14 @@
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\bin\Debug\net5.0\PHVManagementAGG.Core.deps.json
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\bin\Debug\net5.0\PHVManagementAGG.Core.dll
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\bin\Debug\net5.0\PHVManagementAGG.Core.pdb
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\bin\Debug\net5.0\CryptographyService.dll
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.csproj.AssemblyReference.cache
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.AssemblyInfoInputs.cache
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.AssemblyInfo.cs
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.csproj.CoreCompileInputs.cache
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.csproj.CopyComplete
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.dll
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\refint\PHVManagementAGG.Core.dll
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\PHVManagementAGG.Core.pdb
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Core\obj\Debug\net5.0\ref\PHVManagementAGG.Core.dll

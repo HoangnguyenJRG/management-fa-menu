@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRbiogdPnigHRZKw/IddHxfbxzY0A/oescF6iwKaO7wxnBgq7d4RK3jFEuGN10zfC329qjxKV1VpM641J6OeYg==",
+  "success": true,
+  "projectFilePath": "D:\\WORK\\SOURCE\\PHVManagementAGG\\PHVManagementAGG.Infrastructure\\PHVManagementAGG.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang.nguyen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

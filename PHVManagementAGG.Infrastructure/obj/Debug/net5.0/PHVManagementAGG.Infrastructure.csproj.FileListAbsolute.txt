@@ -1,0 +1,12 @@
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\bin\Debug\net5.0\PHVManagementAGG.Infrastructure.deps.json
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\bin\Debug\net5.0\PHVManagementAGG.Infrastructure.dll
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\bin\Debug\net5.0\PHVManagementAGG.Infrastructure.pdb
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\PHVManagementAGG.Infrastructure.csproj.AssemblyReference.cache
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\PHVManagementAGG.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\PHVManagementAGG.Infrastructure.AssemblyInfoInputs.cache
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\PHVManagementAGG.Infrastructure.AssemblyInfo.cs
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\PHVManagementAGG.Infrastructure.csproj.CoreCompileInputs.cache
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\PHVManagementAGG.Infrastructure.dll
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\refint\PHVManagementAGG.Infrastructure.dll
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\PHVManagementAGG.Infrastructure.pdb
+D:\WORK\SOURCE\PHVManagementAGG\PHVManagementAGG.Infrastructure\obj\Debug\net5.0\ref\PHVManagementAGG.Infrastructure.dll
